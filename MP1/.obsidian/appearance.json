@@ -1,0 +1,13 @@
+{
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "showRibbon": false,
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "accentColor": "",
+  "translucency": true
+}

@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "showRibbon": false,
+  "textFontFamily": "Georgia",
+  "baseFontSizeAction": true
+}

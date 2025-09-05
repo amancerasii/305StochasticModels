@@ -1,0 +1,14 @@
+{
+  "vimMode": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "userIgnoreFilters": null
+}

@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "d448ad723259acc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "534a150726b57bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85f755f3e044f865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "305QC250829.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "305QC250829"
+            }
+          },
+          {
+            "id": "1296f356b6df0bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "305QC250827.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "305QC250827"
+            }
+          },
+          {
+            "id": "421b99e613444413",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-01 15.52.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-01 15.52.21.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4675ba8931cf33a0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bc9a3993584f405d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "dccc216478d79810",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Period calculations",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "804992e423666af7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6c6796a8c033c54a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b649e5afddd25143",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79ba05841587e9af",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Drawing 2025-09-01 15.52.21.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "07293dcbeaaa2450",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1736124585-KWXP.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5346f5df8c0bd4b5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1736124585-KWXP.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f77981cbfe88348f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "87fc0a9afe11ab96",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "79ba05841587e9af",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-01 15.52.21.excalidraw.md",
+    "305QC250827.md",
+    "Excalidraw/Drawing 2025-09-01 15.51.49.excalidraw.md",
+    "Excalidraw",
+    "ClassNotes/Phys305QC.md",
+    "305QC220825.md",
+    "305QC250829.md",
+    "Untitled 5.md",
+    "305QC200825.md",
+    "305QC150825.md",
+    "305QC130825.md",
+    "Ref-Nielsen Quantum Computation Ch1.md",
+    "Notes2John.md",
+    "Oil Drop Experiment.md",
+    "Untitled 21.md",
+    "Qualies Flash Cards.md",
+    "Obsidian Notes/John 15 7 Notes.md",
+    "github token.md",
+    "SermonNotes20July2025.md",
+    "PrayerMeeting.md",
+    "Qualies Flash Cards.sync-conflict-20250715-150534-RHC4Y4S.md",
+    "Untitled 20.md",
+    "Video Editing Notes.md",
+    "Untitled 16.md",
+    "Untitled 18.md",
+    "CM Flashcards.md",
+    "New Cards.md",
+    "MathNotes/MathNotes/222_250402.pdf",
+    "MathNotes/MathNotes/222_250407.pdf",
+    "MathNotes/MathNotes/Prayer Connect Message Outline.pdf",
+    "Obsidian Notes/export/Advanced Slides Notes/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff",
+    "Zettelkasten/export/241019184616 Sunday Lyrics/plugin/math/mathjax/input/tex.js",
+    "Obsidian Notes/export/Advanced Slides Notes/plugin/math/mathjax/input/tex/extensions/enclose.js",
+    "Obsidian/Excalidraw/DE Chapter 4 2024-09-02 16.27.23.excalidraw.png",
+    "Obsidian Notes/export/GE7 - 01 Orientation/plugin/math/mathjax/input/tex/extensions/html.js",
+    "Obsidian Notes/Excalidraw/flux08.png",
+    "Obsidian/export/Slides/plugin/math/mathjax/input/tex/extensions/textcomp.js",
+    "Obsidian/Bible Study/export/Slides/dist/theme/fonts/source-sans-pro/source-sans-pro-italic.woff",
+    "Obsidian Notes/Scalar Triple Product and Vector Triple Product Exercises_page003.svg",
+    "Obsidian Notes/Pasted image 20220629054039.png",
+    "Obsidian Notes/Excalidraw/Drawing 2023-08-17 14.25.00.excalidraw.svg",
+    "Obsidian Notes/export/Advanced Slides Notes/plugin/chalkboard/img/boardmarker-green.png",
+    "Obsidian/Attachments_page003.svg",
+    "Obsidian Notes/export/GE7 - 01 Orientation/Excalidraw/Grouping 1-4 example.excalidraw.svg",
+    "Obsidian Notes/Pasted image 20230207075023.png",
+    "Obsidian Notes/Physics Notes/Physics Notes/Vector Differential Operators.svg",
+    "Obsidian/Untitled 1.canvas"
+  ]
+}
